@@ -1,0 +1,25 @@
+{
+  "auc_test": 0.8103,
+  "n_high_risk": 165,
+  "n_annual_exit_expected": 236,
+  "program_cost": 495000.0,
+  "expected_savings": 1856250.0,
+  "net_uplift": 1361250.0,
+  "top_drivers": {
+    "OverTime_Yes": 1.277,
+    "BusinessTravel_Travel_Frequently": 0.485,
+    "MaritalStatus_Single": 0.437,
+    "Department_Sales": 0.296,
+    "JobRole_Sales Representative": 0.281,
+    "EducationField_Technical Degree": 0.263,
+    "JobRole_Laboratory Technician": 0.237,
+    "Gender_Male": 0.228,
+    "EducationField_Marketing": 0.21,
+    "YearsSinceLastPromotion": 0.203
+  },
+  "assumptions": {
+    "replacement_cost": 45000.0,
+    "intervention_cost": 3000.0,
+    "save_rate": 0.25
+  }
+}

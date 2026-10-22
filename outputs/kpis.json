@@ -1,0 +1,11 @@
+{
+  "employees": 1470,
+  "attrition_rate": 0.1612,
+  "overtime_flag": 0.3053,
+  "no_overtime_rate": 0.1044,
+  "low_sat_rate": 0.2284,
+  "high_sat_rate": 0.1133,
+  "new_hire_drop": 0.2982,
+  "tenured_rate": 0.1068,
+  "income_gap": 64.0
+}
